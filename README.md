@@ -18,3 +18,10 @@ This simple website design is solely focused on practicing HTML, vanilla CSS, an
 ![Alt text](images/preview_1.jpg?raw=true "Preview_1")
 ---
 ![Alt text](images/preview_2.jpg?raw=true "Preview_2")
+
+## Installation
+**Clone the repository and open "index.html."**
+  ```bash
+    git clone https://github.com/BUSHAAN/Simple_Web_design.git
+  ```
+
