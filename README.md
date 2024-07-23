@@ -2,7 +2,8 @@
 
 ## Overview
 
-This simple website design is solely focused on practicing HTML, vanilla CSS, and basic JavaScript. While functionalities are minimal, it showcases a fully responsive layout adapting to various screen sizes. 
+This simple website design is solely focused on practicing HTML, vanilla CSS, and basic JavaScript. While functionalities are minimal, it showcases a fully responsive layout adapting to various screen sizes.
+Check out the live website: [https://bushaan.github.io/Simple_Web_design/](https://bushaan.github.io/Simple_Web_design/)
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
